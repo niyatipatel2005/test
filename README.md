@@ -61,7 +61,7 @@ Before installing and running the program, ensure you have the following:
    Start by cloning the project repository to your local machine. The --recursive flag ensures that if your repository contains any submodules (like Sublist3r), they will be cloned as well. Open your terminal or command prompt and run the following command:
    ```bash
    git clone --recursive https://github.com/SuhaniPatel88/Vertex_Hackathon_2025
-   cd Vertex_Hackathon_2025
+   cd Exaclibur_Hackathon_2025
    ```
    
 
